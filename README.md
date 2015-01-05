@@ -1,7 +1,7 @@
 BlockTroll
 ==========
 
-300500.co için hazırlanan örnek kodlar
+300500.co için hazırlanan örnek kodlar, blog yazısı : [Twitter'da block troll olmak](http://300500.co/twitterda-block-troll-olmak/ "Twitter'da block troll olmak")
 
 Neler gerekiyor
 ==============
