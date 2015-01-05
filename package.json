@@ -1,0 +1,14 @@
+{
+  "name": "BlockTroll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "300500.co",
+  "license": "MIT",
+  "dependencies": {
+    "twit": "^1.1.19"
+  }
+}
