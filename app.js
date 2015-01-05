@@ -30,7 +30,7 @@ var stream = T.stream('statuses/filter', { track: kelimeler , language: 'tr' });
 		var screen_name = tweet.user.screen_name;
 		T.post('blocks/create', { screen_name: screen_name }, function(err, data, response) {
 			if(err){
-				console.log(err)
+				console.log(err);
 			}
 			else {
 				count++;
